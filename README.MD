@@ -41,19 +41,19 @@
 
 ### Hystrix的设计原理
 
-[Hystrix的设计原理]（https://github.com/jbkzty/hystrix-starter/blob/45435cd2fa5666828cfa6cc748c6d2d025790879/HystrixPrinciple.md)
+[Hystrix的设计原理](https://github.com/jbkzty/hystrix-starter/blob/45435cd2fa5666828cfa6cc748c6d2d025790879/HystrixPrinciple.md)
 
 ---
 
 ### Hystrix执行隔离策略的分析
 
-[Hystrix执行隔离策略的分析]（https://github.com/jbkzty/hystrix-starter/blob/45435cd2fa5666828cfa6cc748c6d2d025790879/ThreadAndSemaphore.md)
+[Hystrix执行隔离策略的分析](https://github.com/jbkzty/hystrix-starter/blob/45435cd2fa5666828cfa6cc748c6d2d025790879/ThreadAndSemaphore.md)
 
 ---
 
 ### Hystrix为什么不适用JDK自带的信号量
 
-[Hystrix为什么不适用JDK自带的信号量]（https://github.com/jbkzty/hystrix-starter/blob/45435cd2fa5666828cfa6cc748c6d2d025790879/DontUseSemphoreReason.md）
+[Hystrix为什么不适用JDK自带的信号量](https://github.com/jbkzty/hystrix-starter/blob/45435cd2fa5666828cfa6cc748c6d2d025790879/DontUseSemphoreReason.md)
 
 
 
